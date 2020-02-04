@@ -1,8 +1,8 @@
 import React from "react"
 import "./App.css"
 import SuperSecret from "./components/SuperSecret"
-import OnOffButton from './components/OnOffButton'
-import AccordianMenu from './components/AccordianMenu'
+import OnOffButton from './components/OnOffButtonHooks'
+import AccordianMenu from './components/AccordianMenuHooks'
 
 function App() {
   return (
